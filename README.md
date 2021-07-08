@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augustineantonyjoy
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on projects related to Flutter
+- 💞️ I’m looking to collaborate on projects of Flutter
 - 📫 How to reach me : augustineantonyjoy@outlook.com
 - 😀 Connect wwith me on Linkedin : https://www.linkedin.com/in/augustine-antony-joy/
 
